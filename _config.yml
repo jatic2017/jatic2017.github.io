@@ -1,0 +1,203 @@
+# Plugins
+gems:
+- jekyll-sitemap
+safe: false
+
+# Build Settings
+markdown: kramdown
+permalink: pretty
+exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
+
+
+# Site Settings
+title: "8ª JATIC 2017"
+email: "lti.unifacisa@gmail.com"
+description: "Jornada de Atualização em Tecnologia da Informação e Comunicação (Jatic)"
+baseurl: ""
+url: "http://jatic.com.br"
+permalink: "/blog/:title"
+googleAnalyticsTrackingId: "UA-62574701-1"
+googleAnalyticsSiteUrl: "jatic.com.br"
+siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
+
+# Organizer Info
+organizerName: "JATIC 2017"
+# organizerAlternateName: "Google Developer Group Lviv"
+organizerDescription: "Jornada de Atualização em Tecnologia da Informação e Comunicação (Jatic)"
+organizerEmail: "lti.unifacisa@gmail.com"
+# organizerLogo: "/img/seo/organizer-logo.png"
+# organizerLink: "http://fb.com/caravanaweb"
+
+# Head
+metaKeywords: "event, javascript, js, angularjs, google maps, ionic, firebase, aplicativos híbridos, nodebots"
+twitterAccount: "@jsdaybr"
+socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
+socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
+socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
+fbAppId: "464161153770183"
+fbAdminId: "1313798299"
+
+# Documents
+c4pUrl: "https://drive.google.com/file/d/0BwtkyJKRXAfQLTkzOWdoUlJPZzQ/view?usp=sharing"
+c4sponsorsUrl: "mailto:lti.unifacisa@gmail.com?subject=Patrocínio JATIC 2017"
+
+# Navigation
+navigationLinks:
+  - {permalink: "/", text: "Home"}
+  - {permalink: "/speakers/", text: "Palestrantes"}
+  - {permalink: "/schedule/", text: "Programação"}
+  - {link: "https://www.sympla.com.br/jatic__200729", text: "Inscrição"}
+
+bottomNavigationLinks:
+ - {link: "https://www.sympla.com.br/jatic__200729", text: "Faça Sua Inscrição →"}
+rightNavigationButtons:
+ - {link: "https://www.sympla.com.br/jatic__200729", text: "Faça Sua Inscrição →"}
+
+# Hero Block
+heroImage: "hero.jpg"
+heroTitle: "#JATIC2017: <typeout>"
+eventDate: "De 20 à 22 de Outubro, 2017"
+typeoutTextValues: '"", "Azure", "Bitcoin", "Data Science", "BI", "NodeJS", "Native Script", "IPV6", "Ionic 3", "Xamarin"'
+typeoutFallback: "JavaScript"
+heroButtons:
+ - {link: "https://www.sympla.com.br/jatic__200729", text: "Faça Sua Inscrição →"}
+
+# About Block
+aboutTitle: "Sobre o JATIC"
+aboutBlock:
+ - {title: "Conhecimento", image: "javascript.png", text: "Esteja alinhado com as mais novas tendências e tecnologias do mercado, como Data Science, Ionic 3, Xamarin, Node JS e muito mais." }
+ - {title: "Mercado", image: "office.jpg", text: "Destaque-se obtendo conhecimento nas tecnologias mais requisitadas pelo mercado." }
+ - {title: "Networking", image: "networking.png", text: "Uma das melhores formas para desenvolvimento profissional com certeza é conhecer a comunidade que você faz parte." }
+
+# Statistic Block
+statisticBlockImage: "statistic.jpg"
+statisticBlock:
+ - {count: "10", specialCharacter: "+", info: "palestras", detail: "com tópicos incríveis"}
+ - {count: "20", specialCharacter: "+", info: "mini-cursos", detail: "de diversos assuntos"}
+ - {count: "8", specialCharacter: "+", info: "hackaton's", detail: "de puro código"}
+
+# # Latest News Block
+# latestNewsTitle: "Novidades"
+
+# Rockstar Speakers Block
+# rockstarSpeakersImage: "speakers.jpg"
+rockstarSpeakersCount: 4
+rockstarSpeakersTitle: "Palestrantes"
+rockstarSpeakersButtonText: "Conheça todos Palestrantes"
+
+# Location Block
+locationBlockTitle: "Localização"
+eventLocationName: "UNIFACISA"
+eventLocationLink: "http://www.cesed.br/portal/"
+eventStreetAddress: "Av. Senador Argemiro de Figueiredo, 1901 - Itararé"
+eventAddressLocality: "Campina Grande"
+eventAddressLocalityRegion: "PB"
+eventPostalCode: "58411-020"
+eventAddressCountry: "Brasil"
+eventStartTime: "2016-23-04T08:00"
+eventDoorTime: "08:00"
+eventEndTime: "2016-23-04T18:00"
+eventPlaceCoordinates: "-7.2496486,-35.8726949"
+mapCenterCoordinates: "-7.2496486,-35.8726949"
+mapMobileCenterCoordinates: "-7.2496486,-35.8726949"
+
+# Venue Block
+venueBlockTitle: "Local"
+venueBigImage: "venue_0.jpg"
+venueSmallImage1: "venue_1.jpg"
+venueSmallImage2: "venue_2.jpg"
+venueSmallImage3: "venue_3.jpg"
+venueTitle: "Teatro UNIFACISA"
+venueFeatures: ["Capacidade para mais de 700 pessoas", "Um dos teatros mais modernos do Nordeste"]
+
+# Tweets Feed Block
+tweetsFeedImage: "twitter-feed.jpg"
+tweetsFeedTitle: "Tweets.get()"
+twitterHashTag: "jatic2017"
+twitterFeed: "#"
+
+# Partners Block
+organizersTitle: "Organização"
+partnersTitle: "Patrocinadores"
+partnersC4sponsorsButton: "Ajude-nos a codificar. Patrocine!"
+
+# Subscribe Block
+subscribeImage: "subscribe.jpg"
+subscribeTitle: "Subscribe for updates"
+subscribeAction: "https://gdg.us5.list-manage1.com/subscribe/post?u=9fc8aa205b0521b5f05fc8e1e&amp;id=ae0fb459fc"
+subscribeInfo: "Registration will be open around end of August. Number of tickets are limited. Stay tuned!"
+
+# Tickets Block
+ticketsTitle: "Inscreva-se.now()"
+ticketsOffers:
+ -
+  name: "1º lote: Early Adopters"
+  price: "45"
+  priceCurrency: "R$"
+  buyButtonLink: "http://even.tc/jsday-campina-grande-2016"
+  buyButtonText: "{{Comprar}}"
+  validFrom: "2015-10-05T10:00"
+  validThrough: "2015-12-12T23:59"
+ -
+  name: "2º Lote: Release Candidate"
+  price: "80"
+  priceCurrency: "R$"
+  buyButtonLink: ""
+  buyButtonText: "{{Não disponível}}"
+  validFrom: "2015-10-28T00:00"
+  validThrough: "2015-12-11T23:59"
+ -
+  name: "3º Lote: Release"
+  price: "100"
+  priceCurrency: "R$"
+  buyButtonLink: ""
+  buyButtonText: "{{Não disponível}}"
+  validFrom: "2015-12-06T00:00"
+  validThrough: "2015-12-12T06:00"
+
+# Footer
+socialLinks:
+ - {link: "https://twitter.com/unifacisa", icon: "twitter"}
+ - {link: "https://www.facebook.com/unifacisapb", icon: "facebook"}
+ - {link: "https://www.youtube.com/user/facisapb", icon: "youtube"}
+#  - {link: "https://www.instagram.com/unifacisapb/", icon: "instagram"}
+ - {link: "https://br.linkedin.com/company/unifacisacentrouniversit%C3%A1rio", icon: "linkedin"}
+
+footerBlocks:
+ -
+  title: "Links"
+  links:
+    # - {link: "https://axway.com", text: "axway"}
+    - {link: "http://cesed.br", text: "UniFacisa"}
+    # - {link: "http://hugeinc.com", text: "HUGE"}
+    # - {link: "http://fb.com/caravanaweb", text: "Caravana Web"}
+ -
+#   title: "Edições Anteriores"
+#   links:
+#    - {link: "http://rec.jsday.com.br", text: "JSday Recife"}
+#    - {link: "http://mcz.jsday.com.br", text: "JSday Maceió"}
+#    - {link: "http://fsa.jsday.com.br", text: "JSday Feira de Santana"}
+#  -
+  title: "Contato"
+  links:
+   - {link: "mailto:lti.unifacisa@gmail.com", text: "lti.unifacisa@gmail.com"}
+ -
+  title: "FAQ"
+  links:
+   - {link: "http://pt-br.confcodeofconduct.com/", text: "Código de Conduta"}
+
+# # Blog
+# blogTitle: "Latest news"
+# blogCommentsEnabled: true
+# discusShortName: "jatic2017"
+
+# Speakers List Block
+showSessions: true
+
+# Call for Papers
+cfpTitle: "Espalhe o amor pelo JavaScript"
+cfpDescription: "Uma oportunidade excelente para você mostrar do que o JavaScript é capaz, você já está por dentro das novidades do ES6, sabe como ninguém utilizar os componentes do ReactJS, programa usando JavaScript Funcional ou ainda quer explicar do que se trata esse tal de BabelJS. Siga os passos abaixo e envie sua proposta."
+
+# Hackathon
+hackathonTitle: "Hackathon"
+enableHackathon: false

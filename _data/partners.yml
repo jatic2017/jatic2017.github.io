@@ -1,0 +1,8 @@
+-
+  group: ""
+  elements:
+    # - {name: "Axway", description: "Axway a Leader in Gartner MQ for App Services Governance for the Second Time", link: "https://www.axway.com/", imageUrl: "axway.png", width: "180px"}
+    - {name: "Facisa", description: "Formar pessoas para o sucesso na vida profissional, pessoal e social, adotando uma postura pedagógica interdisciplinar, através de currículos atualizados, oferecendo oportunidade de educação continuada e integração com a sociedade.", link: "http://www.cesed.br", imageUrl: "unifacisa.png", width: "209px"}
+    # - {name: "PBsoft", description: "", link: "", imageUrl: "pbsoft.png", width: "209px"}
+    # - {name: "HUGE", description: "Huge is a full service digital agency headquartered in Brooklyn with offices worldwide. We transform brands and build businesses.", link: "http://www.hugeinc.com/", imageUrl: "huge.png", width: "150px"}
+    # - {name: "Caravana Web", description: "Caravana Web é uma comunidade focada na disseminação e busca de conhecimento através de diversas atividades como participação de eventos, treinamentos, viagens e muitas outras atividades.", link: "https://www.facebook.com/caravanaweb/", imageUrl: "caravanaweb.jpg", width: "130px"}

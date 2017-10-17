@@ -1,0 +1,218 @@
+-
+  id: 001
+  title: "🎉 Recepção"
+  place: "Teatro"
+  service: true
+-
+  id: 002
+  title: "☕️ Coffee break e abertura"
+  place: "Teatro"
+  service: true
+-
+  id: 003
+  title: "🍴 Almoço"
+  place: ""
+  speakers: []
+-
+  id: 005
+  title: "🙌 Encerramento"
+  place: "Auditorium"
+  service: true
+  description: "Thank you and... Always bet on JS!"
+-
+  id: 006
+  title: "⚡️ Desafio JavaScript"
+  place: "Auditorium"
+  service: true
+  description: "Prepare-se para assimilar mais conteúdo e se divertir com JavaScript."
+-
+  id: 101
+  title: "Microsoft Azure e a Jornada para a Nuvem!"
+  description: ""
+  subtype: presentation
+  speakers: [1]
+  language: pt-BR
+  # complexity: ""
+  # presentation: ""
+-
+  id: 102
+  title: "Técnicas Avançadas para Design
+e Especificação de Testes em
+Ambientes Ágeis"
+  description: ""
+  subtype: presentation
+  speakers: [8]
+  language: pt-BR
+  # complexity: "Intermediate"
+  # presentation: "https://speakerdeck.com/brenopolanski/criando-uma-web-app-com-react-dot-js-plus-firebase"
+-
+  id: 103
+  title: "Continuous Delivery em Projetos
+com Entidades Governamentais"
+  description: ""
+  subtype: presentation
+  speakers: [6]
+  language: pt-BR
+  # complexity: "Intermediate"
+  # presentation: "http://brunolima.io/talk-mozvr-aframe/"
+-
+  id: 104
+  title: "A revolução das FINTECHS
+nos meios de pagamento"
+  description: ""
+  subtype: presentation
+  speakers: [17]
+  language: pt-BR
+  # complexity: "Intermediate"
+  # presentation: "http://www.slideshare.net/brunogamacatao/introduo-mean-stack"
+-
+  id: 105
+  title: "IPV6 e os desafios de sua
+implementação"
+  description: ""
+  subtype: presentation
+  speakers: []
+  language: pt-BR
+  # complexity: "Intermediate"
+  # presentation: "https://speakerdeck.com/thulioph/google-maps-api-como-voce-nunca-viu"
+-
+  id: 106
+  title: "O que o Ionic 3 tem de bom?"
+  description: ""
+  subtype: presentation
+  speakers: [13,14,15]
+  language: pt-BR
+  # complexity: "Intermediate"
+  # presentation: "https://goo.gl/WtGZME"
+-
+  id: 107
+  title: "Ciência de dados: conceitos
+e aplicações"
+  description: ""
+  subtype: presentation
+  speakers: [4]
+  language: pt-BR
+  # complexity: "Intermediate"
+  # presentation: "https://speakerdeck.com/diofeher/es6-consertando-as-partes-ruins-do-javascript"
+-
+  id: 108
+  title: "Mulheres em TI"
+  description: ""
+  subtype: presentation
+  speakers: []
+  language: pt-BR
+  # complexity: "Intermediate"
+  # presentation: "http://allisson.github.io/slides/2016/jsday_cg/#/"
+-
+  id: 109
+  title: "Automação de Testes
+de Softwares"
+  description: ""
+  subtype: presentation
+  speakers: [16]
+  language: pt-BR
+  # complexity: "Intermediate"
+  # presentation: "https://goo.gl/V9iEuU"
+-
+  id: 110
+  title: "Arrancando com
+Native Script"
+  description: ""
+  subtype: presentation
+  speakers: [11]
+  language: pt-BR
+  # complexity: "Iniciante"
+  # presentation: "http://pt.slideshare.net/buenonp/construindo-apps-web-mobile-com-polymer-jsday-campina-grande-23-de-abril-de-2016"
+
+-
+  id: 111
+  title: "Bitcoin: Riscos e oportunidades
+para um desenvolvedor"
+  description: ""
+  subtype: presentation
+  speakers: [2]
+  language: pt-BR
+  # complexity: "Iniciante"
+  # presentation: "http://pt.slideshare.net/buenonp/construindo-apps-web-mobile-com-polymer-jsday-campina-grande-23-de-abril-de-2016"
+
+-
+  id: 112
+  title: "Jhipster"
+  description: ""
+  subtype: presentation
+  speakers: [7,10]
+  language: pt-BR
+  # complexity: "Iniciante"
+  # presentation: "http://pt.slideshare.net/buenonp/construindo-apps-web-mobile-com-polymer-jsday-campina-grande-23-de-abril-de-2016"
+
+-
+  id: 113
+  title: "Desenvolvimento
+Híbrido com Xamarin"
+  description: ""
+  subtype: presentation
+  speakers: []
+  language: pt-BR
+  # complexity: "Iniciante"
+  # presentation: "http://pt.slideshare.net/buenonp/construindo-apps-web-mobile-com-polymer-jsday-campina-grande-23-de-abril-de-2016"
+
+-
+  id: 114
+  title: "Spring Boot"
+  description: ""
+  subtype: presentation
+  speakers: []
+  language: pt-BR
+  # complexity: "Iniciante"
+  # presentation: "http://pt.slideshare.net/buenonp/construindo-apps-web-mobile-com-polymer-jsday-campina-grande-23-de-abril-de-2016"
+
+-
+  id: 115
+  title: "Hackaton Ionic 2"
+  description: ""
+  subtype: presentation
+  speakers: [3]
+  language: pt-BR
+  # complexity: "Iniciante"
+  # presentation: "http://pt.slideshare.net/buenonp/construindo-apps-web-mobile-com-polymer-jsday-campina-grande-23-de-abril-de-2016"  
+
+-
+  id: 116
+  title: "NodeJS na prática"
+  description: ""
+  subtype: presentation
+  speakers: [5,9]
+  language: pt-BR
+  # complexity: "Iniciante"
+  # presentation: "http://pt.slideshare.net/buenonp/construindo-apps-web-mobile-com-polymer-jsday-campina-grande-23-de-abril-de-2016"  
+
+-
+  id: 117
+  title: "BI (Business Intelligence)"
+  description: ""
+  subtype: presentation
+  speakers: [12]
+  language: pt-BR
+  # complexity: "Iniciante"
+  # presentation: "http://pt.slideshare.net/buenonp/construindo-apps-web-mobile-com-polymer-jsday-campina-grande-23-de-abril-de-2016"  
+
+-
+  id: 118
+  title: "Introdução a
+Ciência de Dados"
+  description: ""
+  subtype: presentation
+  speakers: [4]
+  language: pt-BR
+  # complexity: "Iniciante"
+  # presentation: "http://pt.slideshare.net/buenonp/construindo-apps-web-mobile-com-polymer-jsday-campina-grande-23-de-abril-de-2016"  
+
+-
+  id: 119
+  title: ""
+  description: ""
+  subtype: presentation
+  speakers: []
+  language: pt-BR
+  # complexity: "Iniciante"
+  # presentation: "http://pt.slideshare.net/buenonp/construindo-apps-web-mobile-com-polymer-jsday-campina-grande-23-de-abril-de-2016"  

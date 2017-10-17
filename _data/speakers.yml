@@ -1,0 +1,209 @@
+-
+  id: 1
+  name: "Evilázaro"
+  surname: "Alves"
+  company: "Microsoft e Lambda3"
+  title: "MVP Microsoft"
+  bio: "Chefe de tecnologia da Lambda3, microsoft Azure MVP e diretor regional da microsoft com 18 anos de experiência no mercado. Líder da comunidade técnica do Brasil com grande experiência em TI. Trablaha como Solution Architect, Technical Lead e Developer."
+  thumbnailUrl: evilazaro-alves.jpg
+  rockstar: true
+  social:
+    - {name: "linkedin", link: "https://br.linkedin.com/in/evil%C3%A1zaro-alves-34035417"}
+    - {name: "github", link: "https://github.com/Evilazaro"}
+    - {name: "facebook", link: "https://pt-br.facebook.com/evilazaro"}
+-
+  id: 2
+  name: "Rubem"
+  surname: "Medeiros"
+  company: "Unifacisa"
+  title: "Professor"
+  bio: "Mestre em Engenharia ElÈtrica pela UFCG, atuou nas áreas de Processamento Digital de Sinais, Inteligência Artificial e Jogos Digitais. Em paralelo à atividades docentes na Unifacisa, fundou empresas de engenharia e de jogos digitais. Este ano fundou um grupo de investimentos voltado para criação de trading bots inteligentes no mercados de criptomoedas."
+  thumbnailUrl: rubem-medeiros.jpg
+  rockstar: true
+  social:
+    - {name: "facebook", link: "https://pt-br.facebook.com/rubem.medeiros"}
+-
+  id: 3
+  name: "Daniel"
+  surname: "Abella"
+  company: "Unifacisa e Virtus"
+  title: "Professor e Gerente de Projetos"
+  bio: "Mestre em Engenharia de Software (UFPE), atualmente é Coordenador de Projetos na UniFacisa, onde também atua como Professor do Curso de Sistemas de Informação e Coordenador da Especialização em Gerenciamento de Projetos. No Virtus/UFCG, atua como Gerente em Projetos de P&D."
+  thumbnailUrl: daniel-abella.png
+  rockstar: true
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/danielabellapb/"}
+    - {name: "github", link: "https://github.com/daniel-abella"}
+-
+  id: 4
+  name: "Adriano"
+  surname: "Santos"
+  company: "Unifacisa"
+  title: "Professor da Unifacisa"
+  bio: "Professor Doutor do Centro de Ensino Superior e Desenvolvimento – CESED
+Cientista de dados do Instituto de Pesquisa Professor Joaquim
+Amorim Neto - IPESQ, Gerente de Projetos e Pesquisador do
+Laboratório de Inteligência Computacional em BioEnergia - LInCE.
+e Multi-Platform Audience Contributor - MTAC."
+  thumbnailUrl: adriano-santos.png
+  rockstar: true
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/adrianosantospb/"}
+    - {name: "github", link: "https://github.com/adrianosantospb"}
+-
+  id: 5
+  name: "Bueno"
+  surname: "Nepomuceno"
+  company: "Virtus"
+  title: "Desenvolvedor"
+  bio: "Desenvolvedor de software no Virtus, é apaixonado por tecnologias livres e comunidades engajadas. Tem foco na experiência de usuário e já trabalhou em projetos para startups canadenses, em projetos de IoT e mais recentemente com renomado banco sul-americano."
+  thumbnailUrl: bueno.jpg
+  social:
+    - {name: "github", link: "https://github.com/buenonp"}
+    - {name: "linkedin", link: "https://br.linkedin.com/in/buenonp"}
+-
+  id: 6
+  name: "Bruno"
+  surname: "Dias"
+  company: "Unifacisa e UFCG"
+  title: "Professor Unifacisa e gerente do SPLab"
+  bio: "Professor de Engenharia de Software pela Unifacisa
+e Gerente do Projeto ePol
+(Sistema de Gerenciamento de Atividades da Polícia Federal)
+no SPLab - UFCG"
+  thumbnailUrl: bruno-dias.jpg
+  rockstar: true
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/brunojdo/"}
+    - {name: "github", link: "https://github.com/brunojdo"}
+-
+  id: 7
+  name: "Edvaldo"
+  surname: "Azevedo"
+  company: "Unifacisa"
+  title: "Desenvolvedor"
+  bio: "Nome Edvaldo Bezerra de Azevedo Filho (Edvaldo Azevedo)
+Descrição Graduando em Sistemas de Informação! Atualmente é desenvolvedor de software no LTI Unifacisa com foco em aplicações web e mobile."
+  thumbnailUrl: edvaldo-lti.png
+  rockstar: true
+  social:
+    - {name: "github", link: "https://github.com/edvaldoazevedo"}
+-
+  id: 8
+  name: "Fabrício"
+  surname: "Epaminondas"
+  company: "Virtus"
+  title: "Gerente de Qualidade"
+  bio: "Graduado em Ciência da Computação (UFCG), atualmente é Gerente de Qualidade de Software no núcleo de pesquisa VIRTUS (UFCG), onde também atua como Líder de Projetos e Arquiteto de Soluções. Entusiasta por metodologias ágeis, tem dedicado sua carreira em aplicações de processos de qualidade em contextos altamente iterativos"
+  thumbnailUrl: fabricio-epaminondas.png
+  rockstar: true
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/fabricioepa/"}
+-
+  id: 9
+  name: "Rafel"
+  surname: "Mendes"
+  company: "Virtus  "
+  title: "Full Stack Developer"
+  bio: "Desenvolvedor Pleno no Virtus/UFCG, formado em Ciências da Computação pela Universidade Federal da Paraíba. Tem experiência em Desenvolvimento web com Java e Node.js."
+  thumbnailUrl: rafael-mendes.jpg
+  rockstar: true
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/rafael-mendes-56607474/"}
+-
+  id: 10
+  name: "Ruan Pierre"
+  surname: "de Oliveira"
+  company: "Virtus"
+  title: "Analista Sênior"
+  bio: "Msc em Ciências da Computação pela Universidade Federal de Campina Grande - UFCG (2015), é especialista em mobilidade e sistemas embarcados pela faculdade Estácio | IDEZ (2013), João Pessoal Brasil e Graduação em Sistemas de Informação pela Faculdade de Ciências Sociais Aplicadas, FACISA (2010), Brasil. Atualmente é Analista Sênior no Virtus - UFCG e trabalha com Desenvolvimento de Software há 7 anos, no qual 5 desses foram pela empresa Accenture, com experiências em Java, Android, Angular, Spring Boot e frameworks Java Web."
+  thumbnailUrl: ruan-pierre.jpeg
+-
+  id: 11
+  name: "Rafael"
+  surname: "Nilton"
+  company: "Unifacisa e Virtus"
+  title: "Líder de Projetos do virtus e professor da unifacisa"
+  bio: "Graduando em Sistemas de Informação (Unifacisa), Software Developer na Upplify, sendo parte de um time responsável em desenvolver sistemas escaláveis e apps multi-plataformas para clientes no Canadá, utilizando Javascript, Node.js, MongoDB, Angular e NativeScript. Desde 2011 desenvolve projetos para web."
+  thumbnailUrl: rafael-nilton.jpg
+  rockstar: true
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/rafaelnilton/"}
+    - {name: "github", link: "https://github.com/rafaelnilton/"}
+-
+  id: 12
+  name: "Volnei"
+  surname: "Fuzer"
+  company: "AeC"
+  title: "Coordenador de Qualidade"
+  bio: "Formado em Sistemas de Infromação pela UNIFACISA, iniciando o MBA em Business Intelligence com Big Data pela UNIPÊ, atualmente é Coordenador de Qualidade na AeC centro de contatos s/a em Campina Grande atuando em projetos de automação dos processos de informação que envolvem indicadores de qualidade."
+  thumbnailUrl: volnei.jpg
+  rockstar: true
+  social:
+    - {name: "github", link: "https://github.com/VolneiFuzer"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/volnei-fuzer-88b65739/"}
+
+-
+  id: 13
+  name: "Magno"
+  surname: "Dantas"
+  company: "Unifacisa"
+  title: "Desenvolvedor"
+  bio: "Graduandos em Sistemas de Informação na Unifacisa. Desenvolvedores full-stacks com foco em aplicações híbridas e atualmente atuam no LTI (Laboratorio de tecnologia da informação) profissionalmente e em um projeto de maratona de programação."
+  thumbnailUrl: magno-dantas.jpg
+  rockstar: true
+  social:
+    - {name: "github", link: "https://github.com/magnodantaas"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/magno-miranda-dantas-173268101/"}
+
+-
+  id: 14
+  name: "Rafael"
+  surname: "Oliveira"
+  company: "Unifacisa"
+  title: "Desenvolvedor"
+  bio: "Graduandos em Sistemas de Informação na Unifacisa. Desenvolvedores full-stacks com foco em aplicações híbridas e atualmente atuam no LTI (Laboratorio de tecnologia da informação) profissionalmente e em um projeto de maratona de programação."
+  thumbnailUrl: rafael-lti.jpg
+  rockstar: true
+  social:
+    - {name: "github", link: "https://github.com/Rafael0360"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/rafael-oliveira-da-silva-a74479117/"}
+
+-
+  id: 15
+  name: "Gustavo"
+  surname: "Pires"
+  company: "Unifacisa"
+  title: "Desenvolvedor"
+  bio: "Graduandos em Sistemas de Informação na Unifacisa. Desenvolvedores full-stacks com foco em aplicações híbridas e atualmente atuam no LTI (Laboratorio de tecnologia da informação) profissionalmente e em um projeto de maratona de programação."
+  thumbnailUrl: gustavo-lti.jpeg
+  rockstar: true
+  social:
+    - {name: "github", link: "https://github.com/Gustavokmp"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/gustavo-maciel-pires-499009135/"}
+
+-
+  id: 16
+  name: "Bruno"
+  surname: "Luna"
+  company: "Virtus"
+  title: "Analista de Qualidade"
+  bio: "Analista de Qualidade de Software no Virtus. Mestre em Engenharia de Software pela Universidade Federal da Paraíba. Pós-graduado em Análise em Teste de Software pela Universidade Federal de Pernambuco em convênio com a Motorola e Graduado pelo Centro Universitário de João Pessoa."
+  thumbnailUrl: bruno-luna.png
+  rockstar: true
+  social:
+    - {name: "github", link: "https://github.com/brunoluna85"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/brunoluna85/"}
+
+-
+  id: 17
+  name: "Fábio"
+  surname: "do Carmo"
+  company: "Conductor Tecnologia"
+  title: "Professor e Product Owner da Conductor Tecnologia"
+  bio: "Atualmente, Fábio do Carmo é Product Owner na Conductor Tecnologia, João Pessoa. Foi Arquiteto de Software na Stefanini, atuou como desenvolvedor em empresas com Unimed e Prefeitura de João Pessoa. É professor universitário, com foco em tecnologia e Consultor Empresarial. Formado em Sistemas de Informação, possui Especialização em Engenharia de Software pela FACISA, CSM E CSPO pela Scrum Alliance, Lean Kanban University Member e Lider Coach."
+  thumbnailUrl: fabio-carmo.jpg
+  rockstar: true
+  social:
+    # - {name: "github", link: "https://github.com/brunoluna85"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/fabiodocarmo/"}
