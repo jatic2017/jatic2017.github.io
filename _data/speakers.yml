@@ -101,7 +101,7 @@ Descrição Graduando em Sistemas de Informação! Atualmente é desenvolvedor d
     - {name: "linkedin", link: "https://www.linkedin.com/in/fabricioepa/"}
 -
   id: 9
-  name: "Rafel"
+  name: "Rafael"
   surname: "Mendes"
   company: "Virtus  "
   title: "Full Stack Developer"
@@ -122,8 +122,8 @@ Descrição Graduando em Sistemas de Informação! Atualmente é desenvolvedor d
   id: 11
   name: "Rafael"
   surname: "Nilton"
-  company: "Unifacisa e Virtus"
-  title: "Líder de Projetos do virtus e professor da unifacisa"
+  company: "Upplify"
+  title: "Desenvolvedor"
   bio: "Graduando em Sistemas de Informação (Unifacisa), Software Developer na Upplify, sendo parte de um time responsável em desenvolver sistemas escaláveis e apps multi-plataformas para clientes no Canadá, utilizando Javascript, Node.js, MongoDB, Angular e NativeScript. Desde 2011 desenvolve projetos para web."
   thumbnailUrl: rafael-nilton.jpg
   rockstar: true
