@@ -207,3 +207,47 @@ Descrição Graduando em Sistemas de Informação! Atualmente é desenvolvedor d
   social:
     # - {name: "github", link: "https://github.com/brunoluna85"}
     - {name: "linkedin", link: "https://www.linkedin.com/in/fabiodocarmo/"}
+
+-
+  id: 18
+  name: "Bruno"
+  surname: "Catão"
+  company: "Unifacisa"
+  title: "Professor"
+  bio: "Professor do Centro de Ensino Superior e Desenvolvimento (FACISA) nos cursos de Jogos Digitais
+e Sistemas de Informação. Tem 13 anos de experiência profissional na área de
+Ciência da Computação, com ênfase no desenvolvimento de Engines 3D, A
+rquitetura de Sistemas de Computação, Estruturas de Dados e Algoritmos
+atuando principalmente nos seguintes temas: ambientes de simulação,
+monitoramento, automatização, detecção de falhas e sistemas distribuídos."
+  thumbnailUrl: bruno-catao.jpg
+  rockstar: true
+  social:
+    - {name: "github", link: "https://github.com/brunogamacatao"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/brunogamacatao/"}
+
+-
+  id: 19
+  name: "Éwerton"
+  surname: "Rômulo"
+  company: "Unifacisa, IFPB e FIP"
+  title: "Professor"
+  bio: "Nascido em Campina Grande, graduado em Engenharia Elétrica pela UFCG (2003) com ênfase em Telecomunicações e Eletrônica, mestrado (2006), e doutorado (2011) em Engenharia Elétrica na área de Processamento da Informação, ambos na área de Telecomunicações, pela UFCG. Tem experiência nas áreas de Engenharia Elétrica e Ciência da Computação na linha de Transmissão Sem Fio de Redes de Computadores onde atuou em provedor de acesso à Internet via Rádio. Pós-doutorado Júnior do CNPq pelo IECOM/DEE/UFCG."
+  thumbnailUrl: ewerton-romulo.jpg
+  rockstar: true
+  social:
+    # - {name: "github", link: "https://github.com/brunogamacatao"}
+    # - {name: "linkedin", link: "https://www.linkedin.com/in/brunogamacatao/"}
+
+-
+  id: 20
+  name: "Filipe"
+  surname: "Germano"
+  company: "Conductor Tecnologia"
+  title: "Desenvolvedor"
+  bio: "Arquiteto de softwares formado pelo IFPB com mais de 8 anos de experiência, trabalhando sempre com soluções Full Stack dentre as mais diversas áreas de negócio, atualmente vem concebendo e implantando novas soluções e arquiteturas de software para o mercado de Meios de Pagamento. Exercendo hoje o papel de referência técnica do time de desenvolvimento de APIs da Conductor, preza sempre pelas melhores práticas de programação, além de estar por dentro das tendências e inovações do o setor de TI."
+  thumbnailUrl: filipe-germano.jpg
+  rockstar: true
+  social:
+    # - {name: "github", link: "https://github.com/brunogamacatao"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/filipegermano/"}

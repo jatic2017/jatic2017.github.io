@@ -71,7 +71,7 @@ nos meios de pagamento"
 implementação"
   description: ""
   subtype: presentation
-  speakers: []
+  speakers: [19]
   language: pt-BR
   # complexity: "Intermediate"
   # presentation: "https://speakerdeck.com/thulioph/google-maps-api-como-voce-nunca-viu"
@@ -151,7 +151,7 @@ para um desenvolvedor"
 Híbrido com Xamarin"
   description: ""
   subtype: presentation
-  speakers: []
+  speakers: [18]
   language: pt-BR
   # complexity: "Iniciante"
   # presentation: "http://pt.slideshare.net/buenonp/construindo-apps-web-mobile-com-polymer-jsday-campina-grande-23-de-abril-de-2016"
@@ -161,7 +161,7 @@ Híbrido com Xamarin"
   title: "Spring Boot"
   description: ""
   subtype: presentation
-  speakers: []
+  speakers: [20]
   language: pt-BR
   # complexity: "Iniciante"
   # presentation: "http://pt.slideshare.net/buenonp/construindo-apps-web-mobile-com-polymer-jsday-campina-grande-23-de-abril-de-2016"
