@@ -1,7 +1,7 @@
 -
   title: "JSday Lineup"
   date: "2017-10-20"
-  dateReadable: "20/10 Dia 1 - Teatro"
+  dateReadable: "20/10 Dia 1 - Cinema"
   dataReadableWarning: "*Os horários das atividades podem ser modificados sem aviso prévio"
   tracks:
     - {title: "Abertura e Palestras", color: "#EAA813"}
@@ -30,7 +30,7 @@
 -
   title: "JSday Lineup"
   date: "2017-10-21"
-  dateReadable: "21/10 Dia 2 - Cinema"
+  dateReadable: "21/10 Dia 2 - Teatro"
   dataReadableWarning: "*Os horários das atividades podem ser modificados sem aviso prévio"
   tracks:
     - {title: "Palestras", color: "#EAA813"}
@@ -105,7 +105,7 @@
 -
   title: "JSday Lineup"
   date: "2017-10-20"
-  dateReadable: "22/10 Dia 3 - Cinema"
+  dateReadable: "22/10 Dia 3 - Teatro"
   dataReadableWarning: "*Os horários das atividades podem ser modificados sem aviso prévio"
   tracks:
     - {title: "Palestras", color: "#EAA813"}
