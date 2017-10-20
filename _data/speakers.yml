@@ -2,9 +2,9 @@
   id: 1
   name: "Evilázaro"
   surname: "Alves"
-  company: "Microsoft e Lambda3"
-  title: "MVP Microsoft"
-  bio: "Chefe de tecnologia da Lambda3, microsoft Azure MVP com 18 anos de experiência no mercado. Líder da comunidade técnica do Brasil com grande experiência em TI. Trablaha como Solution Architect, Technical Lead e Developer."
+  company: "Lambda3"
+  title: ""
+  bio: "Chefe de tecnologia da Lambda3, com 18 anos de experiência no mercado. Líder da comunidade técnica do Brasil com grande experiência em TI. Trablaha como Solution Architect, Technical Lead e Developer."
   thumbnailUrl: evilazaro-alves.jpg
   rockstar: true
   social:
