@@ -56,7 +56,7 @@ rightNavigationButtons:
 # Hero Block
 heroImage: "hero.jpg"
 heroTitle: "#JATIC2017: <typeout>"
-eventDate: "De 20 à 22 de Outubro, 2017"
+eventDate: "De 20 a 22 de Outubro, 2017"
 typeoutTextValues: '"", "Azure", "Bitcoin", "Data Science", "BI", "NodeJS", "Native Script", "IPV6", "Ionic 3", "Xamarin"'
 typeoutFallback: "JavaScript"
 heroButtons:
